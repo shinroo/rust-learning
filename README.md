@@ -14,8 +14,8 @@ This repo will contain my notes and programs as I learn Rust.
 I'm using the book hosted at [doc.rust-lang.org/book](https://doc.rust-lang.org/book/title-page.html)
 
 Topics covered so far:
-- [Hello World](https://github.com/shinroo/rust-learning/tree/main/hello-world)
-- [Hello Cargo](https://github.com/shinroo/rust-learning/tree/main/hello-cargo)
-- [Guessing Game](https://github.com/shinroo/rust-learning/tree/main/guessing-game)
-- [Variables and Mutability](https://github.com/shinroo/rust-learning/tree/main/variables-mutability)
+- [Hello World](https://github.com/shinroo/rust-learning/tree/main/rust-book/hello-world)
+- [Hello Cargo](https://github.com/shinroo/rust-learning/tree/main/rust-book/hello-cargo)
+- [Guessing Game](https://github.com/shinroo/rust-learning/tree/main/rust-book/guessing-game)
+- [Variables and Mutability](https://github.com/shinroo/rust-learning/rust-book/tree/main/variables-mutability)
 
