@@ -9,8 +9,8 @@ This repo will contain my notes and programs as I learn Rust.
 I'm using the book hosted at [doc.rust-lang.org/book](https://doc.rust-lang.org/book/title-page.html)
 
 Progress:
-- [Hello World](https://github.com/shinroo/rust-learning/hello-world/README.md)
-- [Hello Cargo](https://github.com/shinroo/rust-learning/hello-cargo)
-- [Guessing Game](https://github.com/shinroo/rust-learning/guessing-game/README.md)
-- [Data Types](https://github.com/shinroo/rust-learning/data-types/README.md)
+- [Hello World](https://github.com/shinroo/rust-learning/tree/main/hello-world/README.md)
+- [Hello Cargo](https://github.com/shinroo/rust-learning/tree/main/hello-cargo)
+- [Guessing Game](https://github.com/shinroo/rust-learning/tree/main/guessing-game/README.md)
+- [Data Types](https://github.com/shinroo/rust-learning/tree/main/data-types/README.md)
 
