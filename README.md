@@ -20,3 +20,7 @@ Topics covered so far:
 - [Variables and Mutability](https://github.com/shinroo/rust-learning/rust-book/tree/main/variables-mutability)
 - [Data Types](https://github.com/shinroo/rust-learning/rust-book/tree/main/data-types)
 - [Functions](https://github.com/shinroo/rust-learning/tree/main/functions)
+
+## GNU Utils Rewrite
+
+- [echo](https://github.com/shinroo/rust-learning/tree/main/gnu-utils-rewrite/echo)
