@@ -6,7 +6,7 @@ Take aways:
 ```rust
 let mut x = 5; 
 ```
-- alternative to mutable variables is shadowing
+- alternative to mutable variables is shadowing, with later call to `let` overshadowing previous until scope ends
 ```rust
 let x = 5;
 let x = 6;
