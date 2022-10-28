@@ -19,3 +19,4 @@ Topics covered so far:
 - [Guessing Game](https://github.com/shinroo/rust-learning/tree/main/rust-book/guessing-game)
 - [Variables and Mutability](https://github.com/shinroo/rust-learning/rust-book/tree/main/variables-mutability)
 - [Data Types](https://github.com/shinroo/rust-learning/rust-book/tree/main/data-types)
+- [Functions](https://github.com/shinroo/rust-learning/tree/main/functions)
