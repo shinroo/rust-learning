@@ -18,4 +18,4 @@ Topics covered so far:
 - [Hello Cargo](https://github.com/shinroo/rust-learning/tree/main/rust-book/hello-cargo)
 - [Guessing Game](https://github.com/shinroo/rust-learning/tree/main/rust-book/guessing-game)
 - [Variables and Mutability](https://github.com/shinroo/rust-learning/rust-book/tree/main/variables-mutability)
-
+- [Data Type](https://github.com/shinroo/rust-learning/rust-book/tree/main/data-types)
